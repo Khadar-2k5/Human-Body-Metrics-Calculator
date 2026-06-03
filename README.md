@@ -53,7 +53,7 @@ The application helps users analyze body metrics such as BMI, body fat percentag
 Compile:
 
 ```bash
-javac calc.java
+javac pcalc.java
 ```
 
 Run:
